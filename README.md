@@ -1,6 +1,6 @@
 ### Hi there 👋
 __________________________________________________________________________________________
-                        Here are some ideas to get you started:
+                        Here are some things to know :
 __________________________________________________________________________________________
 - 💻 I'm currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything about informatic 
