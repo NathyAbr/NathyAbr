@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with cybersecurity subjects
 - 💬 Ask me about what i want to do 
 - 📫 How to reach me: Nathy Abr
-- 😄 Pronouns: Nathalie
 - ⚡ Fun fact: I'm a Potterhead 
+
+https://img.shields.io/static/v1?label=<LABEL>HELLO=<MESSAGE>&color=<COLOR>
