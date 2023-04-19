@@ -28,7 +28,7 @@ J'ai une bonne compréhension des langages de développement web tels que JS, CS
 - Travailler sur des projets concrets pour acquérir une expérience pratique. À long terme.
 - Travailler dans une entreprise où je pourrai contribuer à la conception, à la mise en place et à la maintenance de systèmes informatiques sécurisés et fiables.
 
-# 👩🏽‍💻Langage 👩🏽‍💻
+# 👩🏽‍💻Langages 👩🏽‍💻
 
 ![Image](html.png) 
 
