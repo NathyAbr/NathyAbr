@@ -30,10 +30,7 @@ J'ai une bonne compréhension des langages de développement web tels que JS, CS
 
 # 👩🏽‍💻Langage 👩🏽‍💻
 
-![Image](git.png)
-![Image](vs.png)
-![Image](html.png)
-![Image](go.png)        
+![Image](html.png) 
 
 # 📞 Contact 📞
 
