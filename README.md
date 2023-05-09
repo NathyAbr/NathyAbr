@@ -1,5 +1,5 @@
-# <p align="center">👩🏽‍💻MacOS user 👩🏽‍💻</p>
 # <p align="center">  Hi 👋🏽 </p>
+# <p align="center">👩🏽‍💻MacOS user 👩🏽‍💻</p>
 
 # 📍À propos de moi📍
 
@@ -14,14 +14,16 @@ J'ai une bonne compréhension des langages de développement web tels que JS, CS
 - Utilisation de machine virtuelle Linux, Windows, MacOS 
 - Aprentissage d'hashcat, burp suit, OSINT
 - Création et configuration d'un routeur pfsense via VM
+- Apprentissage Java et JavaFX
 
 # 🧨 Mes projets 🧨
 
 - Hangman / Hangman Web : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio
 - Groupie Tracker : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio
-- CHAT en JavaScrit : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio
+- CHAT en JavaScrit : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio (en cours)
 - Challenge 48h (Site de prevention contre le phishing) :<br> https://07profil-office.wixsite.com/nathalie-albert/portfolio
 - Boxxle Game : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio
+- Tamagoshi : Création d'un tamagoshi sur AndroidStudio en Java et en JavaFX
 
 
 # 🖇️ Mes objectifs 🖇️
