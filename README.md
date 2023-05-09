@@ -43,6 +43,6 @@ GitTea : anathali
 
 # Mes statistiques GitHub
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pommedapi7749&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pommedapi7749&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathyabr&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NathyAbr7749&theme=dark&hide_border=true&locale=fr" alt="NathyAbr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NathyAbr7749&theme=nightowl&hide_border=true&locale=fr" alt="NathyAbr" /></p>
