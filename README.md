@@ -43,17 +43,20 @@ GitHub : NathyAbr<br>
 GitTea : anathali
 
 # 💻 Workstation 💻
+<br>
 
-        Visual Studio Code
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 # Mes statistiques GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathyabr&theme=codeSTACKr&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" />
+![NathyAbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathyAbr&count_private=false&theme=codeSTACKr&hide=stars&show_icons=true&hide_title=false&disable_animations=false&&hide_rank=false)
 </p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathyabr&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" 
-<br></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nathyabr&theme=codeSTACKr&hide_border=true&locale=fr" alt="NathyAbr" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathyAbr&layout=codeSTACKr&count_private=true&theme=merko&disable_animations=false&progress=false) 
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nathyabr&theme=codeSTACKr&hide_border=false&locale=fr" alt="NathyAbr" /></p>
 
 # Root Me
 
