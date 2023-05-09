@@ -57,4 +57,4 @@ GitTea : anathali
 
 # Root Me
 
-![Image](ootme.png) 
+![Image](Rootme.png) 
