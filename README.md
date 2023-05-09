@@ -22,6 +22,7 @@ J'ai une bonne compréhension des langages de développement web tels que JS, CS
 - Challenge 48h (Site de prevention contre le phishing) :<br> https://07profil-office.wixsite.com/nathalie-albert/portfolio
 - Boxxle Game : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio
 
+
 # 🖇️ Mes objectifs 🖇️
 
 - Améliorer mes compétences en matière de sécurité informatique et d'infrastructures réseau, 
@@ -39,11 +40,14 @@ GitHub : NathyAbr<br>
 GitTea : anathali
 
 # 💻 Workstation 💻
+
         Visual Studio Code
 
 # Mes statistiques GitHub
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathyabr&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathyabr&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nathyabr&theme=radical&hide_border=true&locale=fr" alt="NathyAbr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathyabr&theme=codeSTACKr&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" />
+</p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathyabr&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" 
+<br></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nathyabr&theme=codeSTACKr&hide_border=true&locale=fr" alt="NathyAbr" /></p>
