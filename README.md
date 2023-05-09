@@ -1,5 +1,6 @@
-# Hi 👋
-- 👩🏽‍💻MacOS user 👩🏽‍💻
+# <p align="center">👩🏽‍💻MacOS user 👩🏽‍💻</p>
+# <p align="center">  Hi 👋🏽 </p>
+
 # 📍À propos de moi📍
 
 Je suis actuellement en première année d'école d'informatique et je suis passionné par la sécurité informatique et les infrastructures réseau. Je suis intéressée par la façon dont les systèmes informatiques sont conçus, protégés et exploités, ainsi que par les menaces auxquelles ils sont confrontés.
