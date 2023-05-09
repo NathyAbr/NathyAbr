@@ -2,7 +2,7 @@
 - 👩🏽‍💻MacOS user 👩🏽‍💻
 # 📍À propos de moi📍
 
-Je suis actuellement en première année d'école d'informatique et je suis passionné par la sécurité informatique et les infrastructures réseau. Je suis intéressé par la façon dont les systèmes informatiques sont conçus, protégés et exploités, ainsi que par les menaces auxquelles ils sont confrontés.
+Je suis actuellement en première année d'école d'informatique et je suis passionné par la sécurité informatique et les infrastructures réseau. Je suis intéressée par la façon dont les systèmes informatiques sont conçus, protégés et exploités, ainsi que par les menaces auxquelles ils sont confrontés.
 
 J'ai une bonne compréhension des langages de développement web tels que JS, CSS et HTML, ainsi que du langage GO. J'aime travailler sur des projets pour améliorer mes compétences et en apprendre davantage sur les dernières technologies et les meilleures pratiques.
 
@@ -46,4 +46,4 @@ GitTea : anathali
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathyabr&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathyabr&show_icons=true&locale=fr&layout=compact&bg_color=00000000&hide_border=true" alt="NathyAbr" </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nathyabr7749&theme=nightowl&hide_border=true&locale=fr" alt="NathyAbr" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nathyabr&theme=radical&hide_border=true&locale=fr" alt="NathyAbr" /></p>
