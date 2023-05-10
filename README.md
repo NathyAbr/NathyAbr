@@ -28,8 +28,8 @@ J'ai une bonne compréhension des langages de développement web tels que JS, CS
 
 # 🖇️ Mes objectifs 🖇️
 
-- Améliorer mes compétences en matière de sécurité informatique et d'infrastructures réseau, 
-- Travailler sur des projets concrets pour acquérir une expérience pratique. À long terme.
+- Améliorer mes compétences en matière de sécurité informatique et d'infrastructures réseau;
+- Travailler sur des projets concrets pour acquérir une expérience pratique. 
 - Travailler dans une entreprise où je pourrai contribuer à la conception, à la mise en place et à la maintenance de systèmes informatiques sécurisés et fiables.
 
 # 👩🏽‍💻Langages 👩🏽‍💻
