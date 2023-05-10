@@ -18,11 +18,12 @@ J'ai une bonne compréhension des langages de développement web tels que JS, CS
 
 # 🧨 Mes projets 🧨
 
-- Hangman / Hangman Web : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio
-- Groupie Tracker : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio
-- CHAT en JavaScrit : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio (en cours)
-- Challenge 48h (Site de prevention contre le phishing) :<br> https://07profil-office.wixsite.com/nathalie-albert/portfolio
-- Boxxle Game : <br>https://07profil-office.wixsite.com/nathalie-albert/portfolio
+- Hangman / Hangman Web : <br>https://07profil-office.wixsite.com/nathalie-albert/projets
+- Groupie Tracker : <br>https://07profil-office.wixsite.com/nathalie-albert/projets
+- CHAT en JavaScrit : <br>https://07profil-office.wixsite.com/nathalie-albert/projets (en cours)
+- Challenge 48h (Site de prevention contre le phishing) :<br> https://07profil-office.wixsite.com/nathalie-albert/projets
+- Boxxle Game : <br>https://07profil-office.wixsite.com/nathalie-albert/projets
+- Super Simon : <br> https://07profil-office.wixsite.com/nathalie-albert/projets
 - Tamagoshi : Création d'un tamagoshi sur AndroidStudio en Java et en JavaFX
 
 
