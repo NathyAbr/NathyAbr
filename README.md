@@ -64,7 +64,7 @@ J'ai une bonne compréhension des langages de développement web tels que JS, CS
 </p>
 
 *\ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathyAbr&layout=codeSTACKr&count_private=false&theme=merko&disable_animations=false&progress=true) 
-</p>/*
+</p> /*
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nathyabr&theme=codeSTACKr&hide_border=false&locale=fr" alt="NathyAbr" /></p>
 
 # Root Me
