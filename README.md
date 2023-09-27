@@ -63,8 +63,8 @@ J'ai une bonne compréhension des langages de développement web tels que JS, CS
 ![NathyAbr's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathyAbr&count_private=false&theme=codeSTACKr&hide=stars&show_icons=true&hide_title=false&disable_animations=false&&hide_rank=false)
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathyAbr&layout=codeSTACKr&count_private=false&theme=merko&disable_animations=false&progress=true) 
-</p>
+*\![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathyAbr&layout=codeSTACKr&count_private=false&theme=merko&disable_animations=false&progress=true) 
+</p>/*
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nathyabr&theme=codeSTACKr&hide_border=false&locale=fr" alt="NathyAbr" /></p>
 
 # Root Me
